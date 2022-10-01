@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: none;
+    padding: none;
+}
+#camara {
+    animation-delay: 0.5s;
+}
+#diagragma {
+    animation-delay: 1.0s;
+}
+#lgs {
+    animation-delay: 3.5s;
+}
+#lilianalagos {
+  animation-delay: 2s;
+} 
+#multimedia {
+    animation-delay: 2.5s;
+  } 
+  #enter {
+    animation-delay: 4.5s;
+  } 
